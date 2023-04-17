@@ -10,11 +10,10 @@ The following libraries are required to run the program:
 Usage
 
 To use the program, follow these steps:
-  
-  Make sure the required libraries are installed.
-  Download the DecisionTreesClassificationDataSet.csv dataset and save it in the same directory as the program.
-  Run the program.
-  The program will output predictions for two example resumes based on their work experience, education level, and other factors. To test the program with   other resumes, simply modify the input values in the predict method calls at the bottom of the program.
+  1. Make sure the required libraries are installed.
+  2. Download the DecisionTreesClassificationDataSet.csv dataset and save it in the same directory as the program.
+  3. Run the program.
+  4. The program will output predictions for two example resumes based on their work experience, education level, and other factors. To test the program        with   other resumes, simply modify the input values in the predict method calls at the bottom of the program.
 
 Dataset
 The dataset used in this program is DecisionTreesClassificationDataSet.csv. It contains information on the work experience, education level, and other factors for a number of job candidates, as well as whether they were ultimately hired or not.
